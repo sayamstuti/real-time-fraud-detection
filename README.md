@@ -1,6 +1,6 @@
 
 
-@'
+
 # Real-Time Fraud Detection Pipeline with LLM Alert Triage
 
 A streaming pipeline that scores payment transactions in real time, flags suspicious ones, and uses an LLM to generate a short rationale, risk score and recommended action for an analyst to review. Built using simulated PaySim transaction data.
