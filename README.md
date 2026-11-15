@@ -5,7 +5,7 @@
 
 A streaming pipeline that scores payment transactions in real time, flags suspicious ones, and uses an LLM to generate a short rationale, risk score and recommended action for an analyst to review. Built using simulated PaySim transaction data.
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpg)
 
 ## What It Does
 
@@ -230,7 +230,7 @@ The dashboard reads data from both PostgreSQL tables:
 ## Author
 
 **Sayam Stuti Shuvadarsini**  
-B.Tech CSE (Data Science), ITER, SOA
+
 
 [LinkedIn](https://www.linkedin.com/in/sayam-stuti-shuvadarsini) | [GitHub](https://github.com/sayamstuti)
 
