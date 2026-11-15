@@ -1,0 +1,9 @@
+@'
+chk/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store
+'@ | Set-Content -Encoding UTF8 .gitignorepaysim.csv
